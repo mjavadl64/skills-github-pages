@@ -5,7 +5,7 @@ J'ai mon metrise en MIAGE (Master Informatique Appliquer à la Gestion des Entre
 ## Compétences en cours d’acquisition
 - HTML / CSS / JavaScript / PHP / Java Spring boot / React
 - Git & travail collaboratif sur GitHub
-- 
+
 ## Mes projets
 - (À compléter au fil de la formation)
 
