@@ -7,7 +7,7 @@ J'ai mon metrise en MIAGE (Master Informatique Appliquer à la Gestion des Entre
 - Git & travail collaboratif sur GitHub
 
 ## Mes projets
-- (À compléter au fil de la formation)
+- Web site de ventre les bijous
 
 ## Objectifs
 Continuer à progresser et réaliser mes premiers projets concrets.
